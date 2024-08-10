@@ -1,12 +1,10 @@
-- 👋 Hi, I’m @aidenjanzen
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hey, I'm @aidenjanzen! \
+Welcome to my GitHub! \
 
-<!---
-aidenjanzen/aidenjanzen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I use this to post projects I work on in class or at home. \
+I enjoy backend coding for webpages using Flask and combining them with HTML and CSS to make fun interactive websites. \
+
+I am currently studying Computer Information Technology at BCIT. \
+You can reach me through my school email ajanzen16@my.bcit.ca \
+
+
