@@ -1,6 +1,5 @@
 # Hey, I'm @aidenjanzen!
-I'm a tech enthusiast passionate about containerizing, gaming, and developing. Most of my projects revolve around Docker, Discord bots, and webscraping. \
-Fiddling around with computers comes naturally to me. When there is a problem, I can't set it down until it's fixed.
+I'm a tech enthusiast passionate about containerizing, gaming, and developing. Most of my projects revolve around Docker, Discord bots, and webscraping. Fiddling around with computers comes naturally to me. When there is a problem, I can't set it down until it's fixed.
 
 ## Current Projects:
 Discord Bots – Building custom bots with Python and Discord.js, focusing on slash commands and DB integrations.\
