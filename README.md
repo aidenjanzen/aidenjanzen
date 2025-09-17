@@ -1,5 +1,5 @@
 <div align="center">
-──────────────────────────────────────────✦──────────────────────────────────────────
+───────────────────────────────────────✦───────────────────────────────────────
 
 # ✧  Hey, I'm @aidenjanzen!  ✧
 
@@ -13,7 +13,6 @@ When there is a problem, I can't set it down until it's fixed.
 ![Docker](https://img.shields.io/badge/Docker-4651ba?style=for-the-badge&logo=docker&logoColor=d5d7d9)
 ![Caddy](https://img.shields.io/badge/Caddy-4651ba?style=for-the-badge&logo=caddy&logoColor=d5d7d9)
 ![Crowdsec](https://img.shields.io/badge/Crowdsec-4651ba?style=for-the-badge&logo=crowdsec&logoColor=d5d7d9)
-![VS Code](https://img.shields.io/badge/VS_Code-4651ba?style=for-the-badge&logo=visualstudiocode&logoColor=d5d7d9)
 ![Discord](https://img.shields.io/badge/Discord-4651ba?style=for-the-badge&logo=discord&logoColor=d5d7d9)
 ![OpenAI](https://img.shields.io/badge/OpenAI-4651ba?style=for-the-badge&logo=openai&logoColor=d5d7d9)
 
@@ -28,6 +27,6 @@ $${\color{blue}Security \space Automation}$$ ✦ Automating IP blocking with Cro
 I am currently studying **Computer Information Technology** at BCIT.\
 You can reach me through my school email: **ajanzen16@my.bcit.ca**
 
-──────────────────────────────────────────✦──────────────────────────────────────────
+───────────────────────────────────────✦───────────────────────────────────────
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=github_dark&authorColor=424CA5&symbolColor=424CA5&quoteColor=D5D7D9&quote=Culture%20shouldn%E2%80%99t%20exist%20only%20for%20those%20who%20can%20afford%20it.&author=Hakita)
 </div>
