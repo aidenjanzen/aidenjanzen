@@ -1,5 +1,5 @@
 <div align="center">
-────────────────────────────────────────────✦────────────────────────────────────────────
+──────────────────────────────────────────✦──────────────────────────────────────────
 
 # ✧  Hey, I'm @aidenjanzen!  ✧
 
@@ -28,6 +28,6 @@ $${\color{blue}Security \space Automation}$$ ✦ Automating IP blocking with Cro
 I am currently studying **Computer Information Technology** at BCIT.\
 You can reach me through my school email: **ajanzen16@my.bcit.ca**
 
-────────────────────────────────────────────✦────────────────────────────────────────────
+──────────────────────────────────────────✦──────────────────────────────────────────
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=github_dark&authorColor=424CA5&symbolColor=424CA5&quoteColor=D5D7D9&quote=Culture%20shouldn%E2%80%99t%20exist%20only%20for%20those%20who%20can%20afford%20it.&author=Hakita)
 </div>
