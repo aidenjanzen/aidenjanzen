@@ -7,15 +7,14 @@ I'm a tech enthusiast passionate about containerization, gaming, and software de
 Fiddling around with computers comes naturally to me.  
 When there is a problem, I can't set it down until it's fixed.
 
-![Python](https://img.shields.io/badge/Python-4651ba?style=for-the-badge&logo=python&logoColor=d5d7d9)
-![Markdown](https://img.shields.io/badge/Markdown-4651ba?style=for-the-badge&logo=markdown&logoColor=d5d7d9)
-![Debian](https://img.shields.io/badge/Debian-4651ba?style=for-the-badge&logo=debian&logoColor=d5d7d9)
-![Docker](https://img.shields.io/badge/Docker-4651ba?style=for-the-badge&logo=docker&logoColor=d5d7d9)
-![Caddy](https://img.shields.io/badge/Caddy-4651ba?style=for-the-badge&logo=caddy&logoColor=d5d7d9)
-![Crowdsec](https://img.shields.io/badge/Crowdsec-4651ba?style=for-the-badge&logo=crowdsec&logoColor=d5d7d9)
-![Discord](https://img.shields.io/badge/Discord-4651ba?style=for-the-badge&logo=discord&logoColor=d5d7d9)
-![OpenAI](https://img.shields.io/badge/OpenAI-4651ba?style=for-the-badge&logo=openai&logoColor=d5d7d9)
-
+[![Python](https://img.shields.io/badge/Python-4651ba?style=for-the-badge&logo=python&logoColor=d5d7d9)](https://www.python.org)
+[![Markdown](https://img.shields.io/badge/Markdown-4651ba?style=for-the-badge&logo=markdown&logoColor=d5d7d9)](https://daringfireball.net/projects/markdown/)
+[![Debian](https://img.shields.io/badge/Debian-4651ba?style=for-the-badge&logo=debian&logoColor=d5d7d9)](https://www.debian.org)
+[![Docker](https://img.shields.io/badge/Docker-4651ba?style=for-the-badge&logo=docker&logoColor=d5d7d9)](https://www.docker.com)
+[![Caddy](https://img.shields.io/badge/Caddy-4651ba?style=for-the-badge&logo=caddy&logoColor=d5d7d9)](https://caddyserver.com)
+[![Crowdsec](https://img.shields.io/badge/Crowdsec-4651ba?style=for-the-badge&logo=crowdsec&logoColor=d5d7d9)](https://www.crowdsec.net)
+[![Discord](https://img.shields.io/badge/Discord-4651ba?style=for-the-badge&logo=discord&logoColor=d5d7d9)](https://discord.com)
+[![OpenAI](https://img.shields.io/badge/OpenAI-4651ba?style=for-the-badge&logo=openai&logoColor=d5d7d9)](https://openai.com)
 
 ## Current Projects:
 $${\color{blue}Docker \space Stack}$$ ✦ Managing multiple services on Debian with Docker Compose, Caddy server, and CrowdSec integration.\
