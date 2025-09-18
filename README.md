@@ -13,7 +13,7 @@ When there is a problem, I can't set it down until it's fixed.
 [![Docker](https://img.shields.io/badge/Docker-4651ba?style=for-the-badge&logo=docker&logoColor=d5d7d9)](https://www.docker.com)
 [![Caddy](https://img.shields.io/badge/Caddy-4651ba?style=for-the-badge&logo=caddy&logoColor=d5d7d9)](https://caddyserver.com)
 [![Crowdsec](https://img.shields.io/badge/Crowdsec-4651ba?style=for-the-badge&logo=crowdsec&logoColor=d5d7d9)](https://www.crowdsec.net)
-[![Discord](https://img.shields.io/badge/Discord-4651ba?style=for-the-badge&logo=discord&logoColor=d5d7d9)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-4651ba?style=for-the-badge&logo=discord&logoColor=d5d7d9)](https://discord.com/users/304393299094011915)
 [![OpenAI](https://img.shields.io/badge/OpenAI-4651ba?style=for-the-badge&logo=openai&logoColor=d5d7d9)](https://openai.com)
 
 ## Current Projects:
