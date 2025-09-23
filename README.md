@@ -17,9 +17,9 @@ When there is a problem, I can't set it down until it's fixed.
 [![OpenAI](https://img.shields.io/badge/OpenAI-4651ba?style=for-the-badge&logo=openai&logoColor=d5d7d9)](https://openai.com)
 
 ## Current Projects:
-$${\color{blue}Docker \space Stack}$$ ✦ Managing multiple services on Debian with Docker Compose, Caddy server, and CrowdSec integration.\
-$${\color{blue}Web \space Scraping \space Automation}$$ ✦ Python scripts with Selenium and aiohttp for efficient data gathering and processing.\
-$${\color{blue}Security \space Automation}$$ ✦ Automating IP blocking with CrowdSec and custom firewall configurations.
+Docker ✦ Managing multiple services on Debian with Docker Compose, Caddy server, and CrowdSec integration.\
+Web Scraping Automation ✦ Python scripts with Selenium and aiohttp for efficient data gathering and processing.\
+Security Automation ✦ Automating IP blocking with CrowdSec and custom firewall configurations.
 
 [![Janzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenjanzen&title_color=4651ba&text_color=d5d7d9&&bg_color=323339)](https://github.com/anuraghazra/github-readme-stats)
 
