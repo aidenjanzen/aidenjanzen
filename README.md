@@ -23,9 +23,6 @@ Security Automation ✦ Automating IP blocking with CrowdSec and custom firewall
 
 [![Janzen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aidenjanzen&title_color=4651ba&text_color=d5d7d9&&bg_color=323339)](https://github.com/anuraghazra/github-readme-stats)
 
-I am currently studying **Computer Information Technology** at BCIT.\
-You can reach me through my school email: **ajanzen16@my.bcit.ca**
-
 ───────────────────────────────────────✦───────────────────────────────────────
 ![Readme Quotes](https://quotes-github-readme.vercel.app/api?&type=horizontal&theme=github_dark&authorColor=424CA5&symbolColor=424CA5&quoteColor=D5D7D9&quote=Culture%20shouldn%E2%80%99t%20exist%20only%20for%20those%20who%20can%20afford%20it.&author=Hakita)
 </div>
